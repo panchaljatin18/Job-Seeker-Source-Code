@@ -1,0 +1,114 @@
+[
+  {
+    "id": "notif_1792594428367_7bj5q",
+    "timestamp": "2026-10-21T14:53:48.367Z",
+    "type": "welcome",
+    "subject": "🎉 Welcome to TecJob Notifications! You're Subscribed",
+    "recipient": "jmpanchal394@gmail.com",
+    "recipientsCount": 1,
+    "status": "sent",
+    "previewUrl": "https://ethereal.email/message/atjR9Xi-emLtMLpoatjR-bJrKujo-YDtAAAAAdCqjlIo5AOiJuLlAT24GWU",
+    "isTest": true
+  },
+  {
+    "id": "notif_1792516149530_w7ig9",
+    "timestamp": "2026-10-20T17:09:09.530Z",
+    "type": "welcome",
+    "subject": "🎉 Welcome to TecJob Notifications! You're Subscribed",
+    "recipient": "rahul.tech@gmail.com",
+    "recipientsCount": 1,
+    "status": "sent",
+    "previewUrl": "https://ethereal.email/message/atebvz.z5CbOWD.YategM8AYPlgYjroRAAAABZbwSPg7N1RyUaqHF6tcmIU",
+    "isTest": true
+  },
+  {
+    "id": "notif_1792516032053_mptwj",
+    "timestamp": "2026-10-20T17:07:12.053Z",
+    "type": "announcement",
+    "subject": "📢 TecJob Update: Mega Job Fair 2026 Announced!",
+    "recipientsCount": 1,
+    "successCount": 1,
+    "failureCount": 0,
+    "status": "sent",
+    "details": {
+      "title": "Mega Job Fair 2026 Announced!",
+      "message": "Join 50+ companies hiring for remote and on-site engineering roles this weekend.",
+      "actionUrl": "http://localhost:3000/jobs",
+      "actionText": "View Job Fair Details"
+    },
+    "previewUrl": "https://ethereal.email/message/atebvz.z5CbOWD.YatefvcAYPlgYjrn0AAAABOIDL8MlgXUAuWEjKQQ6xdY"
+  },
+  {
+    "id": "notif_1792515429653_xzzx2",
+    "timestamp": "2026-10-20T16:57:09.653Z",
+    "type": "new_company",
+    "subject": "🏢 New Company Joined: Welcome NextWave Robotics to TecJob!",
+    "recipientsCount": 1,
+    "successCount": 1,
+    "failureCount": 0,
+    "status": "sent",
+    "details": {
+      "id": 1792515424667,
+      "name": "NextWave Robotics",
+      "slug": "nextwave-robotics",
+      "industry": "Robotics & AI",
+      "location": "Bangalore, India",
+      "website": "https://nextwave.ai",
+      "about": "NextWave Robotics is now hiring on TecJob! Check out the open positions.",
+      "openJobs": 5,
+      "size": "50-200 employees",
+      "rating": "4.8",
+      "logoColor": "bg-indigo-50 text-indigo-600 border-indigo-100",
+      "logoText": "N",
+      "createdAt": "2026-10-20T16:57:04.667Z"
+    },
+    "previewUrl": "https://ethereal.email/message/atebvz.z5CbOWD.YatedY1z99noLeqInAAAAA.rQQ9HkoRMg4x9fjJreH5I"
+  },
+  {
+    "id": "notif_1792515208588_2dvg6",
+    "timestamp": "2026-10-20T16:53:28.588Z",
+    "type": "new_job",
+    "subject": "🎯 New Job Alert: Lead AI Engineer at OpenTech Labs",
+    "recipientsCount": 1,
+    "successCount": 1,
+    "failureCount": 0,
+    "status": "sent",
+    "details": {
+      "id": 1792515203896,
+      "slug": "lead-ai-engineer-3896",
+      "title": "Lead AI Engineer",
+      "company": "OpenTech Labs",
+      "logoColor": "bg-blue-50 text-blue-600 border-blue-100",
+      "logoText": "O",
+      "location": "Ahmedabad / Remote",
+      "workType": "Full Time",
+      "locationType": "On-site",
+      "salary": "₹18L - ₹28L",
+      "salaryMin": 0,
+      "salaryMax": 0,
+      "postedDate": "Just now",
+      "tags": [
+        "Python",
+        "PyTorch",
+        "Next.js"
+      ],
+      "experience": "Freshers / Experienced",
+      "education": "Any Degree",
+      "description": "",
+      "verified": true,
+      "createdAt": "2026-10-20T16:53:23.896Z"
+    },
+    "previewUrl": "https://ethereal.email/message/atebvz.z5CbOWD.YatechsAYPlgYjriYAAAAAj05LLnnAo9PP0C-sLSQgiE"
+  },
+  {
+    "id": "notif_1792515020240_0srbl",
+    "timestamp": "2026-10-20T16:50:20.241Z",
+    "type": "welcome",
+    "subject": "🎉 Welcome to TecJob Notifications! You're Subscribed",
+    "recipient": "rahul.tech@gmail.com",
+    "recipientsCount": 1,
+    "status": "sent",
+    "previewUrl": "https://ethereal.email/message/atebvz.z5CbOWD.YatebybJrKujo-QaxAAAAAQtiAI-2pBmHnX0jFqkWlzk",
+    "isTest": true
+  }
+]

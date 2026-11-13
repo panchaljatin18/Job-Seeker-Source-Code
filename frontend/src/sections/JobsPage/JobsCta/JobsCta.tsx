@@ -1,0 +1,10 @@
+"use client";
+
+import Link from "next/link";
+import { UserPlus, ArrowRight } from "lucide-react";
+
+function JobsCta() {
+  return /*#__PURE__*/<section className="mt-16 sm:mt-24 mb-12 sm:mb-16">{/*#__PURE__*/<div className="bg-gradient-to-r from-[#0B1F3A] via-[#0F172A] to-[#1E3A8A] rounded-3xl p-8 sm:p-12 text-white relative overflow-hidden shadow-2xl shadow-blue-950/20 border border-slate-800">{/*#__PURE__*/<div className="absolute top-0 right-0 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl pointer-events-none -mr-20 -mt-20" />}{/*#__PURE__*/<div className="max-w-3xl mx-auto text-center relative z-10 space-y-4">{/*#__PURE__*/<h2 className="text-2xl sm:text-3xl lg:text-4xl font-black tracking-tight leading-tight">Ready to Find Your Next Opportunity?</h2>}{/*#__PURE__*/<p className="text-sm sm:text-base text-slate-300 max-w-xl mx-auto font-normal leading-relaxed">Create your profile and discover jobs that match your skills and career goals.</p>}{/*#__PURE__*/<div className="pt-3 flex flex-col sm:flex-row items-center justify-center gap-3.5">{/*#__PURE__*/<Link href="#" className="w-full sm:w-auto px-6 py-3.5 bg-[#2563EB] hover:bg-blue-700 text-white font-semibold text-sm rounded-xl shadow-lg shadow-blue-600/30 transition-all inline-flex items-center justify-center gap-2 hover:scale-[1.02]">{/*#__PURE__*/<UserPlus className="w-4 h-4" />}{/*#__PURE__*/<span>Create Your Profile</span>}</Link>}{/*#__PURE__*/<Link href="#main-jobs-content" className="w-full sm:w-auto px-6 py-3.5 bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold text-sm rounded-xl transition-all inline-flex items-center justify-center gap-2">{/*#__PURE__*/<span>Browse Jobs</span>}{/*#__PURE__*/<ArrowRight className="w-4 h-4" />}</Link>}</div>}</div>}</div>}</section>;
+}
+
+export default JobsCta;

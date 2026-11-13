@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1792515203896,
+    "slug": "lead-ai-engineer-3896",
+    "title": "Lead AI Engineer",
+    "company": "OpenTech Labs",
+    "logoColor": "bg-blue-50 text-blue-600 border-blue-100",
+    "logoText": "O",
+    "location": "Ahmedabad / Remote",
+    "workType": "Full Time",
+    "locationType": "On-site",
+    "salary": "₹18L - ₹28L",
+    "salaryMin": 0,
+    "salaryMax": 0,
+    "postedDate": "Just now",
+    "tags": [
+      "Python",
+      "PyTorch",
+      "Next.js"
+    ],
+    "experience": "Freshers / Experienced",
+    "education": "Any Degree",
+    "description": "",
+    "verified": true,
+    "createdAt": "2026-10-20T16:53:23.896Z"
+  }
+]

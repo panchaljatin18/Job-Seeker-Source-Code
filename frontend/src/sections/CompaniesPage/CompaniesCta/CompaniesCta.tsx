@@ -1,0 +1,10 @@
+"use client";
+
+import Link from "next/link";
+import { Briefcase, ArrowRight, UserPlus } from "lucide-react";
+
+function CompaniesCta() {
+  return /*#__PURE__*/<section className="mt-16 sm:mt-24 mb-12 sm:mb-16 max-w-[1280px] mx-auto px-4 sm:px-8 lg:px-12">{/*#__PURE__*/<div className="bg-gradient-to-r from-[#0B1F3A] via-[#0F172A] to-[#1E3A8A] rounded-3xl p-8 sm:p-12 text-white relative overflow-hidden shadow-2xl shadow-blue-950/20 border border-slate-800">{/*#__PURE__*/<div className="absolute top-0 right-0 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl pointer-events-none -mr-20 -mt-20" />}{/*#__PURE__*/<div className="max-w-3xl mx-auto text-center relative z-10 space-y-4">{/*#__PURE__*/<h2 className="text-2xl sm:text-3xl lg:text-4xl font-black tracking-tight leading-tight">Find Your Next Opportunity</h2>}{/*#__PURE__*/<p className="text-sm sm:text-base text-slate-300 max-w-xl mx-auto font-normal leading-relaxed">Explore thousands of jobs from companies looking for talented professionals like you.</p>}{/*#__PURE__*/<div className="pt-3 flex flex-col sm:flex-row items-center justify-center gap-3.5">{/*#__PURE__*/<Link href="/jobs" className="w-full sm:w-auto px-6 py-3.5 bg-white text-[#2563EB] hover:bg-slate-100 font-bold text-sm rounded-xl shadow-lg transition-all inline-flex items-center justify-center gap-2 hover:scale-[1.02]">{/*#__PURE__*/<Briefcase className="w-4 h-4 text-[#2563EB]" />}{/*#__PURE__*/<span>Browse Jobs</span>}{/*#__PURE__*/<ArrowRight className="w-4 h-4 text-[#2563EB]" />}</Link>}{/*#__PURE__*/<Link href="#" className="w-full sm:w-auto px-6 py-3.5 bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold text-sm rounded-xl transition-all inline-flex items-center justify-center gap-2">{/*#__PURE__*/<UserPlus className="w-4 h-4" />}{/*#__PURE__*/<span>Create Your Profile</span>}</Link>}</div>}</div>}</div>}</section>;
+}
+
+export default CompaniesCta;

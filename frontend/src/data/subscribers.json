@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sub_1792594422594_8zg2e",
+    "email": "jmpanchal394@gmail.com",
+    "subscribedAt": "2026-10-21T14:53:42.595Z",
+    "status": "active",
+    "preferences": {
+      "newJobs": true,
+      "newCompanies": true,
+      "generalUpdates": true
+    }
+  },
+  {
+    "id": "sub_1792515008755_gjgga",
+    "email": "rahul.tech@gmail.com",
+    "subscribedAt": "2026-10-20T16:50:08.755Z",
+    "status": "active",
+    "preferences": {
+      "newJobs": true,
+      "newCompanies": true,
+      "generalUpdates": true
+    },
+    "unsubscribedAt": "2026-10-20T17:07:28.864Z",
+    "updatedAt": "2026-10-20T17:09:05.335Z"
+  }
+]

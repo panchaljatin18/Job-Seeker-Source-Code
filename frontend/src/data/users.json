@@ -1,0 +1,27 @@
+[
+  {
+    "id": "usr_seed_seeker_001",
+    "name": "Alex Morgan",
+    "email": "seeker@tecjob.com",
+    "phone": "+1 555 019 2831",
+    "role": "seeker",
+    "passwordHash": "23cf6345e9ae504fe99e157d28ec7d285ab8f79f69708a9f118aed404e306f26c290697413a80b8f808ad911b0f44b363ef15cd1bf18dd84fbdf7144db8af66c",
+    "salt": "eb3cffacd935e0d0227dd56b3b083d03",
+    "isEmailVerified": true,
+    "createdAt": "2026-11-07T18:59:05.848Z",
+    "updatedAt": "2026-11-07T18:59:05.848Z"
+  },
+  {
+    "id": "usr_seed_recruiter_002",
+    "name": "Sarah Jenkins",
+    "email": "recruiter@tecjob.com",
+    "phone": "+1 555 018 7744",
+    "role": "employer",
+    "companyName": "Acme Cloud Technologies",
+    "passwordHash": "6548b3164fb564c5bf3325c341d714b7fdceb73989fbbd4a4f913685ad50a00092b55693767b4ecad8a9465f233dd598d00f43a1b1a5dc11595b9910097bc79a",
+    "salt": "daf717afb63b013ab91de203c1bf1d46",
+    "isEmailVerified": true,
+    "createdAt": "2026-11-07T18:59:05.848Z",
+    "updatedAt": "2026-11-07T18:59:05.848Z"
+  }
+]

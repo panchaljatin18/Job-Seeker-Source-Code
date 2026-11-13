@@ -1,0 +1,240 @@
+export const statsData = [
+  {
+    id: 1,
+    value: "5K+",
+    label: "Active Jobs",
+    iconName: "Briefcase",
+    bgColor: "bg-[#EFF6FF] text-[#2563EB]",
+  },
+  {
+    id: 2,
+    value: "2K+",
+    label: "Top Companies",
+    iconName: "Building2",
+    bgColor: "bg-[#ECFDF5] text-[#10B981]",
+  },
+  {
+    id: 3,
+    value: "10K+",
+    label: "Job Seekers",
+    iconName: "Users",
+    bgColor: "bg-[#F5F3FF] text-[#7C3AED]",
+  },
+  {
+    id: 4,
+    value: "95%",
+    label: "Success Rate",
+    iconName: "TrendingUp",
+    bgColor: "bg-[#ECFDF5] text-[#10B981]",
+  },
+];
+
+export const featuredJobs = [
+  {
+    id: 1,
+    company: "Google",
+    logoColor: "bg-red-50 text-red-500",
+    logoText: "G",
+    title: "Frontend Developer",
+    location: "Ahmedabad, Gujarat",
+    workType: "Full Time",
+    locationType: "On-site",
+    salary: "₹4L - ₹8L",
+    postedDate: "2 days ago",
+    tags: ["React", "JavaScript", "Tailwind"],
+  },
+  {
+    id: 2,
+    company: "Microsoft",
+    logoColor: "bg-blue-50 text-blue-500",
+    logoText: "MS",
+    title: "Full Stack Developer",
+    location: "Remote",
+    workType: "Full Time",
+    locationType: "Remote",
+    salary: "₹6L - ₹12L",
+    postedDate: "1 day ago",
+    tags: ["Next.js", "Node.js", "MongoDB"],
+  },
+  {
+    id: 3,
+    company: "TCS",
+    logoColor: "bg-indigo-50 text-indigo-600",
+    logoText: "tcs",
+    title: "Backend Developer",
+    location: "Ahmedabad, Gujarat",
+    workType: "Full Time",
+    locationType: "Hybrid",
+    salary: "₹4L - ₹7L",
+    postedDate: "3 days ago",
+    tags: ["Node.js", "Express", "MongoDB"],
+  },
+  {
+    id: 4,
+    company: "Infosys",
+    logoColor: "bg-sky-50 text-sky-600",
+    logoText: "infosys",
+    title: "Data Analyst",
+    location: "Bangalore, Karnataka",
+    workType: "Full Time",
+    locationType: "On-site",
+    salary: "₹5L - ₹9L",
+    postedDate: "1 week ago",
+    tags: ["SQL", "Excel", "Power BI"],
+  },
+];
+
+export const popularCategories = [
+  {
+    id: 1,
+    name: "Software Development",
+    jobsCount: "1,245 Jobs",
+    iconName: "Code",
+    bgColor: "bg-[#EFF6FF] text-[#2563EB]",
+  },
+  {
+    id: 2,
+    name: "Data & Analytics",
+    jobsCount: "532 Jobs",
+    iconName: "BarChart3",
+    bgColor: "bg-[#F5F3FF] text-[#7C3AED]",
+  },
+  {
+    id: 3,
+    name: "Design & Creative",
+    jobsCount: "310 Jobs",
+    iconName: "Palette",
+    bgColor: "bg-amber-50 text-amber-600",
+  },
+  {
+    id: 4,
+    name: "Digital Marketing",
+    jobsCount: "420 Jobs",
+    iconName: "Send",
+    bgColor: "bg-[#EFF6FF] text-[#2563EB]",
+  },
+  {
+    id: 5,
+    name: "HR & Administration",
+    jobsCount: "220 Jobs",
+    iconName: "Users",
+    bgColor: "bg-orange-50 text-[#F97316]",
+  },
+  {
+    id: 6,
+    name: "Sales & Business",
+    jobsCount: "390 Jobs",
+    iconName: "TrendingUp",
+    bgColor: "bg-[#ECFDF5] text-[#10B981]",
+  },
+  {
+    id: 7,
+    name: "Customer Support",
+    jobsCount: "280 Jobs",
+    iconName: "Headphones",
+    bgColor: "bg-indigo-50 text-indigo-600",
+  },
+  {
+    id: 8,
+    name: "Content Writing",
+    jobsCount: "180 Jobs",
+    iconName: "FileText",
+    bgColor: "bg-teal-50 text-teal-600",
+  },
+  {
+    id: 9,
+    name: "Finance & Accounting",
+    jobsCount: "260 Jobs",
+    iconName: "Calculator",
+    bgColor: "bg-[#F5F3FF] text-[#7C3AED]",
+  },
+  {
+    id: 10,
+    name: "IT & Networking",
+    jobsCount: "150 Jobs",
+    iconName: "Monitor",
+    bgColor: "bg-[#EFF6FF] text-[#2563EB]",
+  },
+  {
+    id: 11,
+    name: "Healthcare",
+    jobsCount: "120 Jobs",
+    iconName: "Heart",
+    bgColor: "bg-rose-50 text-rose-600",
+  },
+  {
+    id: 12,
+    name: "Other",
+    jobsCount: "200 Jobs",
+    iconName: "LayoutGrid",
+    bgColor: "bg-slate-100 text-[#64748B]",
+  },
+];
+
+export const topCompanies = [
+  { id: 1, name: "Google", color: "text-red-500 font-bold" },
+  { id: 2, name: "Microsoft", color: "text-blue-600 font-bold" },
+  { id: 3, name: "amazon", color: "text-amber-500 font-bold italic" },
+  { id: 4, name: "tcs", color: "text-slate-800 font-black lowercase" },
+  { id: 5, name: "Infosys", color: "text-blue-500 font-bold" },
+  { id: 6, name: "wipro", color: "text-purple-600 font-semibold" },
+  { id: 7, name: "accenture", color: "text-indigo-600 font-bold" },
+  { id: 8, name: "IBM", color: "text-blue-700 font-extrabold tracking-widest" },
+  { id: 9, name: "Adobe", color: "text-red-600 font-extrabold" },
+  { id: 10, name: "Deloitte.", color: "text-emerald-600 font-bold" },
+  { id: 11, name: "intel", color: "text-sky-600 font-bold lowercase" },
+];
+
+export const howItWorksSteps = [
+  {
+    step: 1,
+    title: "1. Create Account",
+    desc: "Sign up and create your professional profile",
+    iconName: "User",
+  },
+  {
+    step: 2,
+    title: "2. Build Your Profile",
+    desc: "Add skills, experience and upload resume",
+    iconName: "FileText",
+  },
+  {
+    step: 3,
+    title: "3. Search & Apply",
+    desc: "Find matching jobs and apply easily",
+    iconName: "Search",
+  },
+  {
+    step: 4,
+    title: "4. Track Progress",
+    desc: "Monitor your application status in real time",
+    iconName: "CheckCircle2",
+  },
+];
+
+export const testimonialsData = [
+  {
+    id: 1,
+    name: "Priya Shah",
+    role: "Frontend Developer at Google",
+    avatar: "/priya-shah.webp",
+    quote:
+      "\"TecJob made it so easy to find the right job. I got multiple interviews and finally landed my dream role!\"",
+  },
+  {
+    id: 2,
+    name: "Rahul Mehta",
+    role: "Data Analyst at TCS",
+    avatar: "/rahul-mehta.webp",
+    quote:
+      "\"The platform is simple and very useful. I was able to track all my applications in one place with TecJob.\"",
+  },
+  {
+    id: 3,
+    name: "Neha Patel",
+    role: "UI/UX Designer at Microsoft",
+    avatar: "/neha-patel.webp",
+    quote:
+      "\"Great job listings and amazing user experience on TecJob. Highly recommended for freshers and experienced professionals.\"",
+  },
+];

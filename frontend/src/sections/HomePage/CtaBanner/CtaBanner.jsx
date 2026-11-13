@@ -1,0 +1,10 @@
+"use client";
+
+import Link from "next/link";
+import { ArrowRight, Send } from "lucide-react";
+
+function CtaBanner() {
+  return /*#__PURE__*/<section className="max-w-[1280px] mx-auto px-4 sm:px-8 lg:px-12 mb-20 sm:mb-28">{/*#__PURE__*/<div className="relative bg-gradient-to-r from-[#0F172A] via-[#1E3A8A] to-[#2563EB] rounded-3xl p-8 sm:p-12 lg:p-14 text-white overflow-hidden shadow-2xl shadow-blue-950/20 flex flex-col md:flex-row items-center justify-between gap-8">{/*#__PURE__*/<div className="absolute top-0 right-1/4 w-80 h-80 bg-blue-500/20 rounded-full blur-3xl pointer-events-none" />}{/*#__PURE__*/<div className="absolute -bottom-10 left-10 w-60 h-60 bg-indigo-500/20 rounded-full blur-2xl pointer-events-none" />}{/*#__PURE__*/<div className="absolute right-1/3 top-6 opacity-30 pointer-events-none hidden lg:block transform -rotate-12">{/*#__PURE__*/<Send className="w-16 h-16 text-blue-200 stroke-[1.2]" />}</div>}{/*#__PURE__*/<div className="relative z-10 max-w-xl text-center md:text-left">{/*#__PURE__*/<h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight leading-tight">Ready to Take the Next Step?</h2>}{/*#__PURE__*/<p className="mt-2 sm:mt-3 text-sm sm:text-base text-blue-100/90 font-normal leading-relaxed">Join thousands of job seekers and get hired by top companies.</p>}</div>}{/*#__PURE__*/<div className="relative z-10 shrink-0">{/*#__PURE__*/<Link href="#" className="inline-flex items-center gap-2 bg-white hover:bg-blue-50 text-[#0F172A] font-bold px-7 py-4 rounded-xl shadow-lg transition-all transform hover:-translate-y-0.5 active:translate-y-0 text-sm sm:text-base group">{/*#__PURE__*/<span>Create Your Account</span>}{/*#__PURE__*/<ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform text-[#0F172A]" />}</Link>}</div>}</div>}</section>;
+}
+
+export default CtaBanner;
